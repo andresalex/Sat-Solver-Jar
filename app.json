@@ -1,0 +1,6 @@
+{
+  "name": "SAT-Solver",
+  "description": "Projekt"
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
